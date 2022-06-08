@@ -6,6 +6,7 @@
   201811288 손묘경(MyoGyeong Son)<br>
   <a href= "https://github.com/MyoGyeon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
   201812132 이호은(HoEun Yi)<br> 
+  <a href= "https://github.com/YIHOEUN"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
 
 <h3>Requirements</h3>
 <a>
