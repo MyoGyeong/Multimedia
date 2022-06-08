@@ -1,11 +1,11 @@
 <h1>멀티미디어 처리 기술 (Multimedia Processing Technique)</h1>
 <h2>Team 가보자고(Let's go!)</h2>
 <h3>Members</h3>
-  201811143 박희선(HeeSun Park)<br>
+  201811143 박희선(HeeSun Park)
   <a href= "https://github.com/summeree22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
-  201811288 손묘경(MyoGyeong Son)<br>
+  201811288 손묘경(MyoGyeong Son)
   <a href= "https://github.com/MyoGyeon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
-  201812132 이호은(HoEun Yi)<br> 
+  201812132 이호은(HoEun Yi)
   <a href= "https://github.com/YIHOEUN"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
 
 <h3>Requirements</h3>
