@@ -1,13 +1,11 @@
 <h1>멀티미디어 처리 기술 (Multimedia Processing Technique)</h1>
 <h2>Team 가보자고(Let's go!)</h2>
 <h3>Members</h3>
-<a> 
-  201811143 박희선(HeeSun Park)(https://github.com/summeree22/multiTeamProject)<br>
+  201811143 박희선(HeeSun Park)<br>
+  https://github.com/summeree22/multiTeamProject<br>
   201811288 손묘경(MyoGyeong Son)<br>
   https://github.com/MyoGyeong/Multimedia<br>
   201812132 이호은(HoEun Yi)<br> 
-
-</a>
 
 <h3>Requirements</h3>
 <a>
