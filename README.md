@@ -2,9 +2,9 @@
 <h2>Team 가보자고(Let's go!)</h2>
 <h3>Members</h3>
   201811143 박희선(HeeSun Park)<br>
-  https://github.com/summeree22/multiTeamProject<br>
+  <a href= "https://github.com/summeree22"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
   201811288 손묘경(MyoGyeong Son)<br>
-  https://github.com/MyoGyeong/Multimedia<br>
+  <a href= "https://github.com/MyoGyeon"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
   201812132 이호은(HoEun Yi)<br> 
 
 <h3>Requirements</h3>
